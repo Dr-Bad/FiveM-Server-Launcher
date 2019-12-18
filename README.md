@@ -4,6 +4,14 @@
 
 ## English :
 
+### Benefits :
+
+- No need for server startup file to call `server.cfg`.
+
+- close console errors.
+
+- Restart the server if the server is shut down or crashed.
+
 ## Persian :
 
 ### : فواید این نرم افزار
