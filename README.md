@@ -1,4 +1,4 @@
-# FiveM-Server-Launcher
+# FiveM Server Launcher
 
 ## Current Version : Coming Soon
 
