@@ -1,6 +1,6 @@
 # FiveM Server Launcher
 
-## Current Version : Coming Soon
+## Current Version : 1.0
 
 ## English :
 
