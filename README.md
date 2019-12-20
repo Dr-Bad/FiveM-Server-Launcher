@@ -4,6 +4,9 @@
 
 ## English :
 
+### Requirements :
+- [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer)
+
 ### Benefits :
 
 - No need for server startup file to call `server.cfg`.
@@ -13,6 +16,9 @@
 - Restart the server if the server is shut down or crashed.
 
 ## Persian :
+
+### : پیش نیاز ها
+- [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer)
 
 ### : فواید این نرم افزار
 
