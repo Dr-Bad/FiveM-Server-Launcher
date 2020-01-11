@@ -13,7 +13,7 @@
 
 - close console errors.
 
-- Restart the server if the server is shut down or crashed.
+- Restart the server when the server is shut down or crashed.
 
 ## Persian :
 
